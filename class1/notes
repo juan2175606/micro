@@ -1,0 +1,6 @@
+mkdir micro
+cd micro
+mkdir class1
+mkdir tmp
+cd class1
+subl notes
